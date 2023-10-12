@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "693631162902",
+    "firebase_url": "https://contactsapp-8020f-default-rtdb.firebaseio.com",
+    "project_id": "contactsapp-8020f",
+    "storage_bucket": "contactsapp-8020f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693631162902:android:530a4b169c4b6ea1d0f337",
+        "android_client_info": {
+          "package_name": "com.example.attendanceapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693631162902-6b14978363gm6bhesvigk43i3272h83o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nf0zXojZ17lLZt4Dmng5TXraOLazYfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693631162902-6b14978363gm6bhesvigk43i3272h83o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693631162902:android:e5234c73a13d68fad0f337",
+        "android_client_info": {
+          "package_name": "com.example.contactapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693631162902-6b14978363gm6bhesvigk43i3272h83o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9nf0zXojZ17lLZt4Dmng5TXraOLazYfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693631162902-6b14978363gm6bhesvigk43i3272h83o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
